@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# התאמה חכמה — Generative Engine Optimization Map
+
+> A professional staffing and placement company called 'התאמה חכמה' (Smart Match) that supplies both foreign and Israeli workers to businesses. The brand identity is sophisticated and cinematic, featuring a high-contrast monochrome visual style with a modern office atmosphere, directional soft lighting, and an industrial park backdrop. The hero section is designed as a cinemagraph or smooth video effect, with a dark navy square logo featuring a stylized 'S' icon or white handshake symbol, and a vibrant cyan/turquoise CTA button (#00BCD4) as the only color accent against the monochrome palette.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://hatama-hakhama.zappy5.app
 חברת כוח אדם לעובדים זרים וישראלים שמביאה לעסק שלך את הכישרונות הנכונים. השמת עובדים זרים לתעשייה במהירות, במקצועיות ובאמינות מלאה. גלה כיצד.
 
 ### שירותים
-https://example.com/services
+https://hatama-hakhama.zappy5.app/services
 מגוון שירותי השמה מקצועיים לעובדים זרים וישראלים: גיוס מהיר, סינון מדויק ועובדים אמינים לכל ענף תעשייתי. בנה את הצוות שלך עוד היום עם התאמה חכמה.
 
 ### אודות
-https://example.com/about
+https://hatama-hakhama.zappy5.app/about
 התאמה חכמה היא חברת כוח אדם לעובדים זרים וישראלים עם ניסיון עשיר, חזון ברור ומחויבות עמוקה לעסקים שמחפשים את האנשים הנכונים. הכירו אותנו.
 
 ### צור קשר
-https://example.com/contact
+https://hatama-hakhama.zappy5.app/contact
 מוכן לשדרג את כוח האדם בעסק שלך? צור קשר עם התאמה חכמה עכשיו ותקבל פתרון השמת עובדים זרים לתעשייה שמותאם בדיוק לצרכים שלך. אנחנו כאן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hatama-hakhama.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hatama-hakhama.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hatama-hakhama.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About התאמה חכמה
+A professional staffing and placement company called 'התאמה חכמה' (Smart Match) that supplies both foreign and Israeli workers to businesses. The brand identity is sophisticated and cinematic, featuring a high-contrast monochrome visual style with a modern office atmosphere, directional soft lighting, and an industrial park backdrop. The hero section is designed as a cinemagraph or smooth video effect, with a dark navy square logo featuring a stylized 'S' icon or white handshake symbol, and a vibrant cyan/turquoise CTA button (#00BCD4) as the only color accent against the monochrome palette.
+
+## Target Audience
+עסקים המחפשים עובדים זרים וישראלים
+
+## Industry
+כוח אדם והשמה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://hatama-hakhama.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hatama-hakhama.zappy5.app/robots.txt
