@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חברת כוח אדם לעובדים זרים וישראלים שמביאה לעסק שלך את הכישרונות הנכונים. השמת עובדים זרים לתעשייה במהירות, במקצועיות ובאמינות מלאה. גלה כיצד.
+
+### שירותים
+https://example.com/services
+מגוון שירותי השמה מקצועיים לעובדים זרים וישראלים: גיוס מהיר, סינון מדויק ועובדים אמינים לכל ענף תעשייתי. בנה את הצוות שלך עוד היום עם התאמה חכמה.
+
+### אודות
+https://example.com/about
+התאמה חכמה היא חברת כוח אדם לעובדים זרים וישראלים עם ניסיון עשיר, חזון ברור ומחויבות עמוקה לעסקים שמחפשים את האנשים הנכונים. הכירו אותנו.
+
+### צור קשר
+https://example.com/contact
+מוכן לשדרג את כוח האדם בעסק שלך? צור קשר עם התאמה חכמה עכשיו ותקבל פתרון השמת עובדים זרים לתעשייה שמותאם בדיוק לצרכים שלך. אנחנו כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
